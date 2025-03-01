@@ -1,14 +1,9 @@
 # 💫About Me :
 🔭 Currently working on cybersecurity development
-
 👥 Looking to collaborate on website building & software development
-
 🤝 Seeking help with developing ArchX
-
 🌱 Currently learning networking & Security+
-
 💬 Ask me about security research
-
 ⚡ Fun fact: Quality over quantity—deep knowledge matters!
 
 ## 🌐Socials
