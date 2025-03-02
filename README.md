@@ -1,15 +1,15 @@
 # 💫About Me :
-🔭 Currently working on cybersecurity development
+🔭 Currently working on ArchX
 
-👥 Looking to collaborate on website building & software development
-
-🤝 Seeking help with developing ArchX
+👥 Looking to collaborate on web dev & software development
 
 🌱 Currently learning networking & Security+
 
-💬 Ask me about security research
+💬 Ask me about cybersecurity research
 
 ⚡ Fun fact: Quality over quantity—deep knowledge matters!
+
+📫 How to reach me amitkumar.projects@gmail.com
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Sn8a8fmv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-kumar-47b24a330/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ak_sharma0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AK5_Sharma) 
